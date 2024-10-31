@@ -1,12 +1,12 @@
 {
-  "name": "hermit-md",
+  "name": "Shah-Bot",
   "version": "4.4.4",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "Shah - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name hermit-md"
+    "start": "pm2 start . --attach --name Gc-Hamid-Shah"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "Gc-Hamid-Shah",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:A-d-i-t-h-y-a-n/Baileys.js",
